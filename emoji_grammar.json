@@ -1,0 +1,27 @@
+{
+  "anchors": {
+    "🧱": "structural boundary / immutable artifact"
+  },
+  "domains": {
+    "☢️": "nuclear / high-energy systems",
+    "🍄": "regenerative / biological / growth systems",
+    "⚛️": "quantum / atomic fields"
+  },
+  "suits": {
+    "♠️": "noble / executive reasoning",
+    "♦️": "merchant / valuation reasoning",
+    "♣️": "engineer / builder reasoning",
+    "♥️": "healer / life systems reasoning"
+  },
+  "states": {
+    "⭐": "entropy capture",
+    "✨": "refinement cycle",
+    "💥": "energetic transition",
+    "🥳": "sealed separation / completion"
+  },
+  "transforms": {
+    "=": "equivalence",
+    "×": "conversion",
+    "→": "directional transformation"
+  }
+}
